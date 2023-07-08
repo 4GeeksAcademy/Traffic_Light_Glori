@@ -1,4 +1,56 @@
 
+.red{
+    margin: 10px;
+    border-radius: 50%;
+    background-color: rgb(222, 166, 229);
+    width: 150px;
+    height: 150px;
+}
+.yellow{
+    margin: 10px;
+    border-radius: 50%;
+    background-color: rgb(223, 216, 159);
+    width: 150px;
+    height: 150px;
+    
+}
+.green{
+    margin: 10px;
+    border-radius: 50%;
+    background-color: rgb(141, 201, 146);
+    width: 150px;
+    height: 150px;
+    
+}
+img{
+    width: 100px;
+    margin: 25px;
+    filter: opacity(0.08);
+    
+}
+.Traffic_Light{
+    padding: 25px;
+    background-color: black;
+    display: inline-block;
+    margin: 45%;
+    margin-top: 2%;
+}
+.glowRed{
+    -webkit-box-shadow:0px 0px 105px 49px rgba(240,82,108,0.9);
+-moz-box-shadow: 0px 0px 105px 49px rgba(240,82,108,0.9);
+box-shadow: 0px 0px 105px 49px rgba(240,82,108,0.9);
+}
+.glowYellow{
+    -webkit-box-shadow:0px 0px 105px 49px rgba(240,219,82,0.9);
+-moz-box-shadow: 0px 0px 105px 49px rgba(240,219,82,0.9);
+box-shadow: 0px 0px 105px 49px rgba(240,219,82,0.9);
+}
+.glowGreen{
+    -webkit-box-shadow:0px 0px 105px 49px rgba(141,219,129,0.9);
+-moz-box-shadow: 0px 0px 105px 49px rgba(141,219,129,0.9);
+box-shadow: 0px 0px 105px 49px rgba(141,219,129,0.9);
+}
+
 /* 
 
     You can write your own styles here...
